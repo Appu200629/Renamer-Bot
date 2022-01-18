@@ -28,8 +28,6 @@ License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
 * sthumbnail -  🌌  Current Thumbnail
 * dthumbnail -  🎇  Delete thumbnail
 
-![Deploy on Railway] (https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FAppu200629%2FRenamer-Bot&envs=WEBHOOK%2CTG_BOT_TOKEN%2CAPP_ID%2CAPI_HASH%2CAUTH_USERS%2CBANNED_USERS%2CUPDATE_GROUP%2CCHUNK_SIZE%2CUPDATE_GROUP&optionalEnvs=BANNED_USERS&WEBHOOKDefault=ANYTHING&CHUNK_SIZEDefault=128&referralCode=Appu2006)
-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/appu2006/Renamer-Bot)
 
 ### Credits
